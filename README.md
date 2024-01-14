@@ -1,3 +1,11 @@
+## https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming
+# the profession's defining treatise
+# 100 or so Books that shaped a Century of Science
+# Bill Gates: "If you think you're a really good programmer… read (Knuth's) Art of Computer Programming… You should definitely send me a résumé if you can read the whole thing."
+
+## Knuth was awarded the 1974 Turing Award "for his major contributions to the analysis of algorithms, and in particular for his contributions to the 'art of computer programming' through his well-known books in a continuous series by this title." American Scientist has included this work among "100 or so Books that shaped a Century of Science", referring to the twentieth century. Covers of the third edition of Volume 1 quote Bill Gates as saying, "If you think you're a really good programmer… read (Knuth's) Art of Computer Programming… You should definitely send me a résumé if you can read the whole thing."[11] The New York Times referred to it as "the profession's defining treatise".
+
+
 <table class="infobox biography vcard">
 <tbody>
 <tr>
