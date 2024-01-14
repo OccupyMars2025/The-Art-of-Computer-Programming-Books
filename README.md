@@ -1,3 +1,7 @@
+# fork time: 2023/12/28
+# start learning: 2023/3/1
+# complete learning:
+
 ## https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming
 # the profession's defining treatise
 # 100 or so Books that shaped a Century of Science
